@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**KamOri1/KamOri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p dir="auto"><strong>Languages and Tools</strong></p>
+<p dir="auto">
+<img src="https://camo.githubusercontent.com/97ea8bbaddf56f8b6f620165d87413c06d069f01dbdd2013270745623c9a55fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3262356238343f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&amp;logo=python&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/6949ac611588773cdf736fe3170be2b0ec3ea2001960f4f90233f1329c345d8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3043344233333f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f266c6f676f436f6c6f723d303932453230" alt="Django" data-canonical-src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&amp;logo=Django&amp;logoColor=092E20" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/887f39771658e187005aee49261b5b523109b8616ea578effb2fbab65e86fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3431363945313f7374796c653d666c61742d737175617265266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d7768697465" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&amp;logo=PostgreSQL&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/4a0f56266049e6581c04e5db075f8ddf015e4e799c28c35722f0adfa2a4ac4e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" data-canonical-src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/0a335dca325d7a01ca719a114970dc04048d3695b2fcce37e9abbf3a90263a2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079746573742d3041394544433f7374796c653d666c61742d737175617265266c6f676f3d707974657374266c6f676f436f6c6f723d7768697465" alt="Pytest" data-canonical-src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/79536ab835520583d9f0eebc002614e4e53f0e17e3bbd6ff55a83ea47afe4420/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/82f526e3d1ebf255d0c77d5c583901606fa505ba7389d18215a36fbb9df1a4ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3534394644453f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/c0f60c84bd23525a0f1e5972ff5052f878eb4104e88b347b7f0004d0e6ad8898/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/f2939d77ee62eae2de13874151794b111f046e8b6308affa4ad80a145258e016/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079636861726d2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d5079636861726d266c6f676f436f6c6f723d7768697465" alt="Pycharm" data-canonical-src="https://img.shields.io/badge/-Pycharm-000000?style=flat-square&amp;logo=Pycharm&amp;logoColor=white" style="max-width: 100%;">
+</p>
