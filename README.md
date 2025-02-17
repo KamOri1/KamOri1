@@ -10,4 +10,8 @@
 <img src="https://camo.githubusercontent.com/c0f60c84bd23525a0f1e5972ff5052f878eb4104e88b347b7f0004d0e6ad8898/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/f2939d77ee62eae2de13874151794b111f046e8b6308affa4ad80a145258e016/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079636861726d2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d5079636861726d266c6f676f436f6c6f723d7768697465" alt="Pycharm" data-canonical-src="https://img.shields.io/badge/-Pycharm-000000?style=flat-square&amp;logo=Pycharm&amp;logoColor=white" style="max-width: 100%;">
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
